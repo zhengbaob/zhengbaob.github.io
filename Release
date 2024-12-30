@@ -1,8 +1,8 @@
-Origin: - lans233's repo
-Label: lans233's repo
+Origin: - 自用备份源
+Label: 自用备份源
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm64E
 Components: main
-Description: QQ交流群：主群157289939，2群212155893，欢迎进群！
+Description: 自用备份
