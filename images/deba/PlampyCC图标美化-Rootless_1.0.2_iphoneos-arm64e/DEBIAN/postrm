@@ -1,3 +1,0 @@
-#!/bin/bash
-
-rm -rf var/mobile/Documents/.plampy* 2> /dev/null

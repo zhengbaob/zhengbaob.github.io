@@ -1,5 +1,0 @@
-#!/bin/bash
-
-rm -rf var/mobile/Documents/.plampy* 2> /dev/null
-
-jb=jb && [ -d /rootfs/var/$jb/xina ] && sed -i 's|usr/bin|var/bin|g' /rootfs/var/LIY/PreferenceBundles/PlampyCC.bundle/PlampyCC || :
